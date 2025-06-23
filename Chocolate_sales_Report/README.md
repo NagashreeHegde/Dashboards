@@ -6,14 +6,13 @@ A fully interactive Excel dashboard to visualize chocolate sales data with insig
 ![Image](https://github.com/user-attachments/assets/25e0ef7e-2b3f-4f9b-a518-9d6b76a166ac)
 
 ## 📁 Files Included
-- `Dashboard.xlsx`: Main Excel file containing charts, slicers, and visualizations.
-- `Data/`: Folder containing raw and cleaned data used to build the dashboard.
-- `Images/`: Screenshots for previewing the dashboard layout.
+- `Awesome_Chocolate_Sales_Report_Excel.xlsx`: Main Excel file containing data, Calculations, charts, slicers, and          visualizations.
+- `Dashboard_Image`: Screenshots for previewing the dashboard layout.
 
 ## 🧠 Key Features
 - Dynamic charts using Pivot Tables and Slicers
 - Conditional formatting to highlight KPIs
-- Region-wise and product-wise filters
+- Category-wise, Team-wise and product-wise filters
 - Trend analysis with time-based insights
 
 ## 🛠️ Tools Used
@@ -27,20 +26,12 @@ A fully interactive Excel dashboard to visualize chocolate sales data with insig
 - Data Visualization using Excel
 
 ## 📝 How to Use
-1. Download `Dashboard.xlsx`.
+1. Download `Awesome_Chocolate_Sales_Report_Excel.xlsx`.
 2. Open the file in Excel.
 3. Use the slicers and dropdowns to explore insights.
 
-## 💡 Use Case
-Useful for:
-- Sales teams tracking chocolate sales
-- Business stakeholders analyzing region-wise performance
-- Excel users wanting to learn dashboard design
 
 ## 📬 Contact
 Feel free to connect with me:
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://linkedin.com/in/nagashree-hegde)
 
-## 📄 License
-This project is licensed under the MIT License.
