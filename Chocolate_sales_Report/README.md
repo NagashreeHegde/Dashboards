@@ -32,7 +32,7 @@ Out of the four teams, Team Yummies leads in performance, contributing 30% of th
 ### 🌍 4. Geographic Trends
 - **USA** delivers the **highest profit percentage** across all countries — making it a strong candidate for scaling operations and targeted campaigns.
 
-### ⚠️ 5. Orange Choco – High Volume, Low Return
+### ⚠️ 5. Strong Demand, Weak Margins
 - **Orange Choco sold the highest number of boxes (96,847)** but delivered only **10% profit margin**, indicating a potential issue in pricing or cost structure.
 - A detailed cost-benefit analysis is recommended before continuing large-scale distribution.
 
@@ -57,7 +57,6 @@ These should be prioritized in marketing and inventory decisions, with potential
 - Study and replicate success factors from **Team Yummies** across other sales divisions.
 - Focus on the **US market** for expansion given its high-profit potential.
 - Balance efforts between **customer favorites** (high sales) and **profit leaders** (high margins) to improve revenue quality.
-
 
 
 ## 🛠️ Tools Used
