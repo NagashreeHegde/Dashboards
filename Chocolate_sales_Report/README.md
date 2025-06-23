@@ -7,7 +7,7 @@ A fully interactive Excel dashboard to visualize chocolate sales data with insig
 
 ## 📁 Files Included
 - `Awesome_Chocolate_Sales_Report_Excel.xlsx`: Main Excel file containing data, Calculations, charts, slicers, and          visualizations.
-- `Dashboard_Image`: Screenshots for previewing the dashboard layout.
+- `Image`: Screenshots for previewing the dashboard layout and calculation sheet overview.
 
 ## 🧠 Key Features
 - Dynamic charts using Pivot Tables and Slicers
