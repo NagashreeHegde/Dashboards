@@ -25,7 +25,7 @@ An interactive **Power BI dashboard** for analyzing financial KPIs across monthl
    - Cleaned, restructured, and transformed data using Power Query
 
 2. **🔗 Data Modeling**
-   - Built a star schema with Calendar, Actual Sales, and Target tables
+   - Built a star schema with Calendar, dimPeople, Actual Sales, and Target tables
    - Created relationships between tables for seamless reporting
 
 3. **🧮 DAX Calculations**
