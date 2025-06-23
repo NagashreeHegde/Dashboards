@@ -3,7 +3,7 @@
 A fully interactive Excel dashboard to visualize chocolate sales data with insights into revenue, top-performing products, region-wise performance, and seasonal trends.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+![Image](https://github.com/user-attachments/assets/25e0ef7e-2b3f-4f9b-a518-9d6b76a166ac)
 
 ## 📁 Files Included
 - `Dashboard.xlsx`: Main Excel file containing charts, slicers, and visualizations.
