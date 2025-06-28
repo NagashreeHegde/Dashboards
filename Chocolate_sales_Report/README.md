@@ -1,4 +1,4 @@
-# 🍫 Awesome Chocolate Sales Dashboard 
+# 🍫 Awesome Chocolate Sales Dashboard - Excel
 
 A fully interactive Excel dashboard to visualize chocolate sales data with insights into revenue, top-performing products, region-wise performance, and seasonal trends.
 
